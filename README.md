@@ -1,13 +1,11 @@
 <h2 align="center">I am Lawrence "Brian"</h2>
 
 
-- 🔭 I’m currently working on **frontend projects using React.js, Next.js and JavaScript**
-
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **projects using Node, React.js, Next.js and JavaScript**
 
 - 💬 Ask me about **JavaScript Html CSS WordPress PHP Lua and Hybrid Mobile Apps**
 
-- 📫 How to reach me **brian.noriega3@gmail.com**
+- 📫 How to reach me: **brian.noriega3@gmail.com**
 
 - ⚡ Fun fact **I’m currently learning home automation using homeassistant 🤣**
 
