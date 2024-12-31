@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/noriega3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noriega3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-brian-noriega/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noriega3/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -35,10 +35,3 @@
   ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noriega3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="noriega3" /></p>
-
-<br/>
-<br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noriega3&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-Inspired by: [this](https://github.com/haiderkh1/haiderkh1)
