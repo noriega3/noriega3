@@ -1,37 +1,48 @@
 <h2 align="center">I am Lawrence "Brian"</h2>
 
-
-- 🔭 I’m currently working on **projects using Node, React.js, Next.js and JavaScript**
-
-- 💬 Ask me about **JavaScript Html CSS WordPress PHP Lua and Hybrid Mobile Apps**
-
-- 📫 How to reach me: **brian.noriega3@gmail.com**
-
-- ⚡ Fun fact **I’m currently learning home automation using homeassistant 🤣**
+🔭 I’m currently working on projects utilizing: **Next.js, Tailwind CSS, Node, React.js, JavaScript, and TypeScript**
 
 ---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-brian-noriega/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noriega3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-brian-noriega/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge" alt="https://www.linkedin.com/in/noriega3/" /></a>
+<a href="https://www.briannoriega.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Personal Site-345678?style=for-the-badge" alt="https://www.briannoriega.com" /></a>
+<a href="mailto:brian.noriega3@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email%20me-901234?style=for-the-badge" alt="mailto:brian.noriega3@gmail.com" /></a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=Nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Mui/MaterialUI](https://img.shields.io/badge/Mui-007FFF?style=for-the-badge&logo=Mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=Cypress&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Cypress&logoColor=white)
+
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  
-  ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noriega3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="noriega3" /></p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
